@@ -1,4 +1,3 @@
--- Login buat tugas 2 
 USE master;
 GO
 
